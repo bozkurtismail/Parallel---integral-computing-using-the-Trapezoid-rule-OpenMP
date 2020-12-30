@@ -1,0 +1,1 @@
+# Parallel---integral-computing-using-the-Trapezoid-rule-OpenMP
