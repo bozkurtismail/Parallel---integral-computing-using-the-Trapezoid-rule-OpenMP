@@ -3,7 +3,9 @@ Calculate the definite integral (area under the curve) using the trapezoidal rul
 #
 ![1](https://user-images.githubusercontent.com/33539593/103377055-61009780-4aef-11eb-88c9-4bfbf6cbbeb3.PNG)
 #
-![2](https://user-images.githubusercontent.com/33539593/103377067-6958d280-4aef-11eb-936a-583242432452.PNG)
+![3](https://user-images.githubusercontent.com/33539593/103377319-2814f280-4af0-11eb-87e5-2127011ca704.PNG)
 #
+![2](https://user-images.githubusercontent.com/33539593/103377067-6958d280-4aef-11eb-936a-583242432452.PNG)
+
 
 
